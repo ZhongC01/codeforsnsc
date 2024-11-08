@@ -6,3 +6,6 @@
 
 ## for scancel.ipynb
  just use this notebook to cancel your jobs in batches
+
+## for tips.md
+ some commands
