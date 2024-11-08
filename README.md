@@ -9,3 +9,6 @@
 
 ## for tips.md
  some commands
+
+## for test.sh
+ a test script
