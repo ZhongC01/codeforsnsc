@@ -1,6 +1,9 @@
 ## If you need to build your own environment, it is recommended to use singularity.
 see this:   https://statics.scnu.edu.cn/pics/iqm/2023/0926/1695693821366210.pdf
 
+## a useful Windows Authenticator
+see this: https://github.com/winauth/winauth
+
 ### for jobs.ipynb
  just use this notebook to check your job, remember to change chenzh to your username
 
